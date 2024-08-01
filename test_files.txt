@@ -1,2 +1,3 @@
 docs/another_file.md
 docs/intro.md
+docs/helm.md
